@@ -1,0 +1,21 @@
+
+#modimg{
+    border-radius: 1%;
+}
+body{
+    background-color: black;
+     
+}
+h1{
+    text-align: left;
+    color: aliceblue;
+    font-size: 9ex;
+}
+p{
+    text-align: right;
+    color: aliceblue;
+    font-size: 2ex;
+}
+
+
+
